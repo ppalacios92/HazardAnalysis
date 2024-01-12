@@ -9,7 +9,7 @@ MSc, Seismic Hazard Analyst, Structural Civil Engineer
 Contains files in Jupyter Python based on Openquake for seismic hazard analysis.
 
 
-**Repository Usage Policy:**
+# **Repository Usage Policy:**
 
 Thank you for accessing and utilizing the files in this repository. These programs are provided with the intent to support professionals and students in seismic hazard analysis. While freely accessible, it is essential to adhere to the following guidelines:
 
@@ -21,7 +21,7 @@ Thank you for accessing and utilizing the files in this repository. These progra
 
 **No Warranty or Liability:** The author does not provide any warranty regarding the accuracy, completeness, or suitability of these programs for any particular purpose. Users are solely responsible for the application, interpretation, and use of the provided tools. The author shall not be held liable for any damages, losses, or consequences arising from the use of these programs.
 
-**Disclaimer:**
+# **Disclaimer:**
 
 The programs in this repository are provided "as is," without any warranty, express or implied. The author disclaims all liability for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use these programs. Users assume full responsibility for any risks associated with their use.
 
