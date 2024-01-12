@@ -1,4 +1,4 @@
-# Hazard Analysis
+# Seismic Hazard Analysis
 
 **Created on:** July, 2023
 
