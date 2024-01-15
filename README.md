@@ -1,6 +1,6 @@
 # Seismic Hazard Analysis
 
-**Created on:** July, 2023
+**Uploaded on:** January, 2024
 
 **Author:** [Patricio Palacios B.](https://github.com/ppalacios92)
 
