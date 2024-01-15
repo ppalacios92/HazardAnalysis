@@ -27,3 +27,20 @@ The programs in this repository are provided "as is," without any warranty, expr
 
 By accessing and utilizing these programs, you agree to abide by the terms and conditions outlined in this policy. If you have any questions or need clarification, please contact the author before proceeding.
 
+Repository Development Notification:
+
+Please be advised that all programs within this repository are currently undergoing modifications and enhancements. We are actively working on refining and updating the tools to improve their functionality, efficiency, and overall user experience.
+
+# **Important Points:**
+
+**Continuous Development:** The repository is in an ongoing development phase. Expect regular updates and improvements to the existing programs.
+
+**Feedback Welcome:** Your feedback is valuable. If you encounter any issues, have suggestions, or wish to contribute, please feel free to raise an issue or contact us directly.
+
+**Disclaimer for Upcoming Changes:** As modifications are made, it is essential to understand that updates may introduce changes to existing functionalities. Please review the documentation accompanying each program for details on the latest improvements and modifications.
+
+**Use with Caution:** Until the repository reaches a stable version, exercise caution while implementing these tools in critical environments. We recommend testing in non-production environments before deploying in a live setting.
+
+We appreciate your understanding and patience during this development phase. We are committed to providing you with high-quality, reliable tools for seismic hazard analysis. Stay tuned for more updates and enhancements.
+
+Thank you for your cooperation.
